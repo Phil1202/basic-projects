@@ -1,5 +1,4 @@
-# basic-projects
-## A few basic JavaScript projects to consolidate the fundamentals.
+# Color Flipper
 
 For my first JavaScript basic project, I decided to code a **"Color Flipper"** website, a simple background color changer triggered by a "click me" button. The project is based on the tutorial by [John Smilga](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s) .
 While coding, I concerned with several key concepts:  
@@ -24,4 +23,7 @@ While coding, I concerned with several key concepts:
          
 		   	for([initialExpression]; [conditionExpression]; [incrementExpression]}
                  statement                  
-               
+		 
+		 					
+**Final Result**: ![Screenshot (18)](https://user-images.githubusercontent.com/84805546/147824473-528cb3eb-f26c-404f-8d9c-f9e561164ce0.png)
+
