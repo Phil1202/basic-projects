@@ -1,4 +1,4 @@
-# Color Flipper
+# 1. Color Flipper
 
 For my first JavaScript basic project, I decided to code a **"Color Flipper"** website, a simple background color changer triggered by a "click me" button. The project is based on the tutorial by [John Smilga](https://www.youtube.com/watch?v=3PHXvlpOkf4&t=421s) .
 While coding, I concerned with several key concepts:  
