@@ -25,5 +25,11 @@ While coding, I concerned with several key concepts:
                  statement                  
 		 
 		 					
-**Final Result**: ![Screenshot (18)](https://user-images.githubusercontent.com/84805546/147824473-528cb3eb-f26c-404f-8d9c-f9e561164ce0.png)
+**Final result**: ![Screenshot (18)](https://user-images.githubusercontent.com/84805546/147824473-528cb3eb-f26c-404f-8d9c-f9e561164ce0.png)
+
+
+# 2. Rock, Paper, Scissors Game
+
+**Final result**: ![Screenshot (20)](https://user-images.githubusercontent.com/84805546/148696583-6aafea4d-5c99-4fab-8668-867dc08cc2bb.png)
+
 
